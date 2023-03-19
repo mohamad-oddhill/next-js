@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="666101df-b2cb-4279-9239-c1543d5f12f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/product/[productId]/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/product/[productId]/review/[reviewId].js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/product/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/menu/MainMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/region/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/region/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/docs/[[...params]].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/main-menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/product/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +55,7 @@
     "last_opened_file_path": "/Users/mohamadrashid/Sites/next-js/pages/product",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Applications/PhpStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,6 +66,7 @@
       <recent name="$PROJECT_DIR$/pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/menu" />
       <recent name="$PROJECT_DIR$/pages/product/[productId]" />
       <recent name="$PROJECT_DIR$/pages/blog" />
     </key>
@@ -65,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679246889924</updated>
-      <workItem from="1679246893149" duration="4513000" />
+      <workItem from="1679246893149" duration="10351000" />
     </task>
     <servers />
   </component>
