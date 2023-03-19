@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="666101df-b2cb-4279-9239-c1543d5f12f4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product/[productId]/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product/[productId]/review/[reviewId].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,17 +40,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/mohamadrashid/Sites/next-js/pages/blog",
+    "last_opened_file_path": "/Users/mohamadrashid/Sites/next-js/pages/product",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/product" />
       <recent name="$PROJECT_DIR$/pages/blog" />
       <recent name="$PROJECT_DIR$/pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/product/[productId]" />
       <recent name="$PROJECT_DIR$/pages/blog" />
     </key>
   </component>
@@ -59,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679246889924</updated>
-      <workItem from="1679246893149" duration="3478000" />
+      <workItem from="1679246893149" duration="4513000" />
     </task>
     <servers />
   </component>
