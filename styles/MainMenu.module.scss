@@ -1,0 +1,31 @@
+@use 'color.scss';
+@use 'mixin';
+
+.nav {
+  background-color: color.$main-color;
+  padding: 0 91px;
+  height: 141px;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+
+  ul {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+
+    li {
+      list-style: none;
+      padding: 10px 20px;
+    }
+  }
+
+  .logo {
+    flex-grow: 1;
+
+    img {
+      width: 130px;
+      height: auto;
+    }
+  }
+}

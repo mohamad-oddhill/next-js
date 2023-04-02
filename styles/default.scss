@@ -1,0 +1,18 @@
+@use './color.scss';
+
+$base-font-size: 16px;
+$base-border-radius: 6px;
+$base-outline-offset: 3px;
+$base-outline-color: color.$black;
+$base-box-shadow: 0 14px 16px rgba(0, 0, 0, 0.04);
+
+// Borders
+
+$border-radius: 2px;
+
+// Fonts
+
+$font-color: color.$black;
+$font-family: 'noto-sans', sans-serif;
+$font-size: 16px;
+$font-weight: 400;

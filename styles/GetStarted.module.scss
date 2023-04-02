@@ -1,0 +1,27 @@
+@use 'color.scss';
+@use 'mixin';
+@use './components/buttons';
+
+.get__started {
+  position: relative;
+  margin-bottom: 3rem;
+
+  .content {
+    display: flex;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 300px;
+    width: 50%;
+    background-color: color.$white;
+    opacity: 0.3;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem;
+  }
+
+  .primary__btn {
+    @extend .primary
+  }
+}

@@ -1,0 +1,8 @@
+@use '../color';
+
+.primary {
+  background-color: color.$dark-gray;
+  padding: 1rem 2rem;
+  border-radius: 100px;
+  color: color.$white;
+}
